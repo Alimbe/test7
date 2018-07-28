@@ -1,0 +1,4 @@
+    int i=1000000;
+        while (i<=10000000)
+        { System.out.println (i);
+        i++;}
