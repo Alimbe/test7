@@ -9,7 +9,7 @@ public class JavaApplication1 {
         //اعداد اول بین 1 میلیون تا 10 میلیون  
         
          boolean answer=true;
-          for(int i=1000000;i<=10000000;i++)
+          for(int i=1000000;i<=5000001;i++)
           {for (int sum=2;sum<i;sum++)
           { if(i%sum==0)
           { answer=false;
